@@ -78,11 +78,11 @@ To push the files into staging area, use command
 
 git add . 
 
-This will push all the files and folders in our main directory to staging area.\\
+This will push all the files and folders in the current directory  to staging area.\\
 
-We also have 'git add -a'. This will push only the files in the current directory. 
+We also have 'git add -A'. This will push all the files in our working directory to staging area. 
 
-There is one more called 'git a\*'.This will stage all the files except for the deleted ones.
+There is one more called 'git a'.This will stage all the files except for the deleted ones.
 
 ### 
 
