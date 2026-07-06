@@ -83,6 +83,7 @@ This will push all the files and folders in the current directory  to staging ar
 We also have 'git add -A'. This will push all the files in our working directory to staging area. 
 
 There is one more called 'git add *a'.This will stage all the files except for the deleted ones.
+4444
 
 ### 
 
