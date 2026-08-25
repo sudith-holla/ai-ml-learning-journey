@@ -145,7 +145,8 @@ Branching creates a clone of whichever branch we want to work on. Its useful whe
 #### GIT merging
 
 Combines changes from two branches into one.
-
+Switch to the branch you want the other brach ti merge on. 
+Then, use the command 'git merge "other_branch_name"'
 
 
 Creating a branch
